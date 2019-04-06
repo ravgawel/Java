@@ -1,0 +1,50 @@
+[
+   {  
+      "id":400,
+      "stationName":"Kraków, Aleja Krasińskiego",
+      "gegrLat":"50.057678",
+      "gegrLon":"19.926189",
+      "city":{  
+         "id":415,
+         "name":"Kraków",
+         "commune":{  
+            "communeName":"Kraków",
+            "districtName":"Kraków",
+            "provinceName":"MAŁOPOLSKIE"
+         }
+      },
+      "addressStreet":"al. Krasińskiego"
+   },
+   {  
+      "id":401,
+      "stationName":"Kraków, ul. Bujaka",
+      "gegrLat":"50.010575",
+      "gegrLon":"19.949189",
+      "city":{  
+         "id":415,
+         "name":"Kraków",
+         "commune":{  
+            "communeName":"Kraków",
+            "districtName":"Kraków",
+            "provinceName":"MAŁOPOLSKIE"
+         }
+      },
+      "addressStreet":"ul. Bujaka"
+   },
+   {  
+      "id":402,
+      "stationName":"Kraków, ul. Bulwarowa",
+      "gegrLat":"50.069308",
+      "gegrLon":"20.053492",
+      "city":{  
+         "id":415,
+         "name":"Kraków",
+         "commune":{  
+            "communeName":"Kraków",
+            "districtName":"Kraków",
+            "provinceName":"MAŁOPOLSKIE"
+         }
+      },
+      "addressStreet":"ul. Bulwarowa"
+   }
+]
